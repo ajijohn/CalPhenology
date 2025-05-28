@@ -1142,7 +1142,7 @@ custom_legend_labels <- c("Ranunculus montanus", "Crocus albiflorus", "Alchemill
 SFigDd <- ggplot(melted_data, aes(x = interaction, y = value, fill = variable)) +
   geom_boxplot(position = position_dodge(width = 0.8), width = 0.7) +
   #geom_jitter(position = position_dodge(width = 0.8), alpha = 0.6, size = 1) +
-  labs(title = "Peak Flowering",
+  labs(title = "Average Flowering",
        x = "Elevation",
        y = "Day of Year",,
        fill = legend_title) +
