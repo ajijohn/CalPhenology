@@ -1,4 +1,4 @@
- # CalPhenology
+ # CalPhenology (Calanda Phenology)
 
 **Phenology of Wildflowers**  
 This repository provides the data and code used for analyzing wildflower phenology using automated detection and statistical modeling.
