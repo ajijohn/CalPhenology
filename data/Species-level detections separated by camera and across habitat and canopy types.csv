@@ -1,0 +1,38 @@
+﻿Camera,cam13,cam18,cam2,cam21,cam25,cam27,cam9,Total,cam31,cam32,cam33,cam34,cam36,cam37,cam5,Total,cam15,cam28,cam29,cam30,cam35,cam38,cam6,Total,cam11,cam17,cam19,cam20,cam22,cam24,cam26,Total,cam10,cam14,cam16,cam23,cam3,cam7,cam8,Total,Total,Species
+Habitat,above tree line,above tree line,above tree line,above tree line,above tree line,above tree line,above tree line,above tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,at tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,below tree line,,
+Canopy,open,open,open,open,open,open,open,open,canopy,canopy,canopy,canopy,canopy,canopy,canopy,canopy,open,open,open,open,open,open,open,open,canopy,canopy,canopy,canopy,canopy,canopy,canopy,canopy,open,open,open,open,open,open,open,open,,
+Achillea millefolium,7,12,22,4,87,21,0,152,9,0,8,0,3,6,0,26,0,0,10,0,0,8,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,196,Achillea millefolium
+Alchemilla conjuncta,69,10,9,57,11,94,180,430,91,157,54,103,12,12,135,562,41,6,256,301,0,53,364,1020,0,0,27,22,114,0,62,224,13,71,7,25,23,21,30,188,2425,Alchemilla conjuncta
+Alchemilla xanthochlora,273,87,69,68,21,108,18,643,6,11,14,0,12,97,32,172,41,25,97,0,0,54,0,216,44,3,8,0,10,0,0,65,0,0,0,0,0,0,4,4,1100,Alchemilla xanthochlora
+Anthyllis vulneraria,130,33,50,260,475,435,7,1389,0,18,53,22,8,69,5,174,11,8,0,28,0,129,198,373,20,0,3,15,87,34,20,178,0,0,15,0,0,0,9,24,2139,Anthyllis vulneraria
+Bellis perennis,0,0,45,0,0,0,0,45,0,0,0,12,0,0,0,12,0,0,0,0,46,0,0,46,0,0,0,0,0,0,0,0,88,53,0,5,12,70,0,228,331,Bellis perennis
+Campanula scheuchzeri,17,43,64,28,27,243,34,455,27,64,25,57,46,21,0,239,37,27,26,16,31,134,128,399,110,0,0,7,0,18,0,135,0,0,9,10,0,11,10,40,1266,Campanula scheuchzeri
+Carlina acaulis,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,Carlina acaulis
+Crocus albiflorus,616,0,104,96,41,79,79,1014,0,0,27,0,57,41,20,146,0,339,278,28,627,53,102,1427,44,0,39,89,255,0,91,518,83,6,155,34,599,370,70,1317,4422,Crocus albiflorus
+Euphrasia minima,0,8,0,0,0,0,0,8,0,0,7,4,0,0,0,11,3,0,0,0,0,0,0,3,9,0,0,0,0,0,0,9,0,0,59,0,0,15,0,74,105,Euphrasia minima
+Gentianella sp.,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,26,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,Gentianella sp.
+Helianthemum nummularium,0,0,0,0,0,0,0,0,0,0,0,4,0,29,0,33,0,0,0,0,0,14,0,14,0,0,0,0,0,0,0,0,0,0,0,19,3,0,0,22,69,Helianthemum nummularium
+Hepatica nobilis,0,0,4,0,7,0,0,11,0,5,0,0,27,0,0,32,33,23,19,9,3,27,0,114,81,33,116,180,92,78,136,717,0,0,4,3,0,0,0,7,881,Hepatica nobilis
+Hippocrepis comosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,Hippocrepis comosa
+Leontodon hispidus,0,0,0,0,0,0,0,0,0,12,32,12,0,5,0,60,20,65,0,0,0,20,0,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,14,179,Leontodon hispidus
+Lotus alpinus,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Lotus alpinus
+Lotus sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,Lotus sp.
+Pedicularis verticillata,0,0,0,14,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,Pedicularis verticillata
+Plantago lanceolata,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Plantago lanceolata
+Plantago media,0,5,0,0,0,28,0,33,0,0,35,6,0,15,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,Plantago media
+Potentilla aurea,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,26,0,0,0,0,0,9,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,Potentilla aurea
+Primula sp.,0,0,0,13,9,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,Primula sp.
+Ranunculus montanus,50,142,40,67,72,110,26,505,765,1181,204,267,68,225,550,3258,512,355,853,608,0,141,259,2726,0,11,20,23,4,0,68,126,191,5,43,268,19,0,48,573,7189,Ranunculus montanus
+Salvia pratensis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,18,0,0,0,346,0,103,0,449,478,Salvia pratensis
+Silene vulgaris,0,0,0,0,0,0,0,0,21,0,0,0,0,0,5,26,0,0,8,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,101,135,Silene vulgaris
+Soldanella alpina,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Soldanella alpina
+Taraxacum officinale,11,9,7,5,0,0,0,32,0,3,16,14,0,15,0,48,15,0,0,8,0,13,0,36,0,0,0,0,0,0,0,0,0,0,28,62,6,0,20,116,231,Taraxacum officinale
+Trifolium badium,8,0,0,0,0,180,4,192,0,23,0,7,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222,Trifolium badium
+Trifolium montanum,0,0,0,9,59,0,4,72,15,26,5,6,5,13,0,70,0,0,4,0,0,15,0,19,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,164,Trifolium montanum
+Trifolium pratense,0,0,3,9,13,78,31,134,14,19,16,0,0,51,0,100,0,0,14,17,0,45,0,76,10,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,319,Trifolium pratense
+Trollius europaeus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,6,0,0,108,108,Trollius europaeus
+Viola biflora,0,0,0,0,0,0,0,0,0,4,0,0,0,6,16,26,0,4,0,0,0,0,8,12,0,0,0,0,26,0,0,26,0,0,0,0,0,0,0,0,64,Viola biflora
+Viola calcarata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,86,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,Viola calcarata
+Viola sp.,15,59,48,5,58,57,11,252,0,0,18,39,17,39,0,113,7,6,0,0,6,30,30,78,0,0,0,0,0,0,0,0,47,5,0,0,0,0,0,52,495,Viola sp.
+Flowers,1195,407,463,634,878,1432,392,5401,948,1526,516,552,258,691,775,5266,719,857,1565,1013,713,786,1190,6844,321,47,212,336,588,147,378,2030,421,139,320,973,668,588,205,3314,22854,
+Species,10,12,12,13,12,11,10,18,8,13,15,13,11,18,8,27,10,10,10,8,4,18,10,24,8,3,6,6,7,4,5,12,5,5,8,11,7,6,8,16,33,
